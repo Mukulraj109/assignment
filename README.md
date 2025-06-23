@@ -3,12 +3,7 @@
 This repository acts as the **meta project** that brings together both the frontend and backend of the Strmly application — a simple full-stack video uploading and sharing platform.
 
 ---
-
-## 📁 Project Structure
-
-strmly/
-├── frontend/ # React.js client for user interface
-├── backend/ # Express.js + MongoDB API and upload service
+<pre><code>## 📁 Project Structure <code> strmly/ ├── frontend/ # React.js client for user interface │ ├── public/ │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ ├── api.js │ │ └── main.jsx │ ├── .env │ └── package.json │ ├── backend/ # Express.js + MongoDB API and upload service │ ├── src/ │ │ ├── controllers/ │ │ ├── models/ │ │ ├── routes/ │ │ ├── utils/ │ │ ├── middlewares/ │ │ ├── app.js │ │ └── index.js │ ├── public/ │ ├── .env │ └── package.json </code> </pre>
 
 ---
 
