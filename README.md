@@ -17,8 +17,8 @@ This repository acts as the **meta project** that brings together both the front
 
 
 ### 1. Clone frontend & backend
-git clone https://github.com/yourusername/strmly-frontend.git frontend
-git clone https://github.com/yourusername/strmly-backend.git backend
+git clone (https://github.com/Mukulraj109/sterly-frontend.git) frontend
+git clone https://github.com/Mukulraj109/strmly-backend.git backend
 
 ### 2. Install dependencies
 cd frontend && npm install
